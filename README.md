@@ -29,6 +29,7 @@ Desde o seu lançamento inicial, tem recebido contribuições da comunidade de d
 - [LINGUAGEM HTML E CSS](https://github.com/VILHALVA/CURSO-DE-HTML-E-CSS)
 - [CURSO DE PYTHON](https://github.com/VILHALVA/CURSO-DE-PYTHON)
 - [VEJA A DOCUMENTAÇÃO](https://pyscript.net/)
+- [VEJA A SINTAXE](./SINTAXE.md)
 - [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:PYSCRIPT)
 
 
