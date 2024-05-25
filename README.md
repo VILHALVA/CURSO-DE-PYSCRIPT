@@ -1,7 +1,7 @@
 # CURSO DE PYSCRIPT
 👨‍⚖️O PYSCRIPT É UMA BIBLIOTECA PYTHON QUE PERMITE A EXECUÇÃO DE SCRIPTS EM PYTHON DIRETAMENTE NO NAVEGADOR DA WEB. ELE É ÚTIL PARA CRIAR APLICAÇÕES WEB INTERATIVAS E DINÂMICAS, PERMITINDO AOS DESENVOLVEDORES USAR PYTHON NO LADO DO CLIENTE. 
 
-<img src="FOTO.png" align="center" width="400"> <br>
+<img src="IMAGEM.jpg" align="center" width="400"> <br>
 
 ## CONCEITO:
 O PyScript é uma biblioteca Python que possibilita a execução de scripts em Python diretamente no navegador da web. Ele permite aos desenvolvedores criar aplicações web interativas e dinâmicas usando a linguagem de programação Python no lado do cliente.
